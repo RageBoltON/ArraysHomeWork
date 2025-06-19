@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{aa680c14-d55a-40ca-aaaf-b0163a67f432}</ProjectGuid>
-    <RootNamespace>Numerics</RootNamespace>
+    <ProjectGuid>{9556e1e6-7c9b-456f-b8e4-d13944fab25a}</ProjectGuid>
+    <RootNamespace>Repeats</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
